@@ -111,5 +111,5 @@ if __name__ == '__main__':
         print("Error: Authentication Failed") 
 
     app.debug=True
-    app.run(host='localhost')
+    app.run(host='0.0.0.0',port=5000)
 
