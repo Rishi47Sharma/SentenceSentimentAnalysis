@@ -1,3 +1,4 @@
 # TwiterSentimentAnalysis
 
-![sentiment Analysi](https://user-images.githubusercontent.com/90702705/236203835-e136d762-0968-44d1-906d-5d32e31387be.png)
+
+![image](https://github.com/Rishi47Sharma/TwiterSentimentAnalysis/assets/90702705/d62b71bd-689c-4d33-a91e-d74f8003ec1d)
